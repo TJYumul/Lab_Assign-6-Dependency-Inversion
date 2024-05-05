@@ -9,5 +9,5 @@ To adhere to the Dependency Inversion Principle (DIP) and ensure flexibility for
 Your solution should not violate other SOLID principles.
 
 Make sure you have a TestProgram that will validate the proposed refactored codes.
-![Blank diagram](https://github.com/TJYumul/Lab_Assign-6-Dependency-Inversion/assets/132363388/46e8ca26-69c5-43f4-b699-cac83ae2346d)
 
+![Blank diagram (1)](https://github.com/TJYumul/Lab_Assign-6-Dependency-Inversion/assets/132363388/69e97eab-5374-4d94-81f8-24462893eac1)
